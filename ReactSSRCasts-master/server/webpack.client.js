@@ -12,6 +12,10 @@ const config = {
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'public')
+    client:"client side program"
+    a=0
+    k=0
+    c:"init"
   }
 };
 
